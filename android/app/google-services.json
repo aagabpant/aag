@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "634724045278",
+    "project_id": "wastecollector2058",
+    "storage_bucket": "wastecollector2058.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634724045278:android:d9cee1497638c738dbcd4f",
+        "android_client_info": {
+          "package_name": "com.example.worldtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634724045278-e9trg4d3pgdg9nht66o418ugpp9dv3ef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtH9fs957qRkwxEIOv5dEqmeZE2LgR5xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634724045278-e9trg4d3pgdg9nht66o418ugpp9dv3ef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
